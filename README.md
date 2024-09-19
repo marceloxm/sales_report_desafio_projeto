@@ -7,10 +7,10 @@ Descrição:
 
 Projeto de Data Analytics com Power BI.
 
- Criação da página detalhes conforme mostrado no desafio de projeto.
+- Criação da página detalhes conforme mostrado no desafio de projeto.
 
- Disposição dos visuais em como o cliente irá consumir o conteúdo.
+- Disposição dos visuais em como o cliente irá consumir o conteúdo.
 
- Visuais sobre os TOP3 Produtos.
+- Visuais sobre os TOP3 Produtos.
 
- Principais países em termos de vendas TOP3.
+- Principais países em termos de vendas TOP3.
